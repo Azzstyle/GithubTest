@@ -11,7 +11,7 @@ namespace HelloGithub
         static void Main(string[] args)
         {
             Console.WriteLine("Hello Github");
-            Console.WriteLine("Try to add new line into Github");
+            Console.WriteLine("Just a line briefly");
             Console.ReadLine();
         }
     }
